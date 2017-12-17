@@ -1,4 +1,4 @@
-<div class="header-area">
+<?php if(!class_exists('Rain\Tpl')){exit;}?><div class="header-area">
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
